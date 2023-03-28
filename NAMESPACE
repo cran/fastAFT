@@ -1,0 +1,3 @@
+useDynLib(fastAFT, .registration = TRUE)
+
+export(faft)
