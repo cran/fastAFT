@@ -497,6 +497,7 @@
          enddo
       enddo
 
+      logdet=0.0d0
       ninf=0
       i=1
       do while(i .le. dim)
