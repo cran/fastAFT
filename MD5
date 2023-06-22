@@ -1,6 +1,11 @@
-08a7784e244e98b075babebefa159773 *DESCRIPTION
+d9ba647717adbbf5b283fac3d87bc77b *DESCRIPTION
 215b9a326c66948a5f4b02dea3a4f4de *NAMESPACE
 b13b21c206f8fecf7cb53ba4e63cf19a *R/faft.R
+3e791975a4854e736a6eccb056bb448d *build/vignette.rds
+e7db9fbdac4c6a3d0cde3fa16b1d9d5c *inst/doc/fastAFT.R
+2997550b70ef0633fa00fc5280762166 *inst/doc/fastAFT.Rmd
+c6075f3153bf933724863fda80de6259 *inst/doc/fastAFT.html
 679d99d5355110298277b5ca18e274e7 *man/faft.Rd
 2a3a9ec9a1b217ee662e81345def99e5 *src/faft.f
 2c7d9953cb92d660f1a25f8f199e7142 *src/fastAFT_init.c
+2997550b70ef0633fa00fc5280762166 *vignettes/fastAFT.Rmd
